@@ -1,2 +1,3 @@
 # neuromag
-Robot controlled by mind
+Robot controlled by mind and neurosky
+
